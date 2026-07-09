@@ -147,7 +147,7 @@ Redux callback → UI updates record badge in real-time
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/paramedic-triage-app.git
+git clone https://github.com/mesho254/ParamedicTriageApp.git
 cd paramedic-triage-app
 
 # Install dependencies
