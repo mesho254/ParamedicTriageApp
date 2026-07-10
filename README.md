@@ -8,7 +8,7 @@ A high-performance, offline-first mobile triage application for field paramedics
 
 Here is a demonstration of the offline-first triage intake and automatic background sync flow:
 
-<video src="screenshots/Demo_Recording.webm" width="100%" height="auto" controls></video>
+![Demo Video](screenshots/Demo_Recording.webm)
 
 *If the video player does not load automatically in your markdown viewer, you can access the recording file directly in the repository at [screenshots/Demo_Recording.webm](screenshots/Demo_Recording.webm).*
 
