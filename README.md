@@ -6,7 +6,11 @@ A high-performance, offline-first mobile triage application for field paramedics
 
 ## 📱 Demo
 
-> *(Insert your 60-second demo GIF/video here showing offline → airplane mode → auto-sync)*
+Here is a demonstration of the offline-first triage intake and automatic background sync flow:
+
+<video src="screenshots/Demo_Recording.webm" width="100%" height="auto" controls></video>
+
+*If the video player does not load automatically in your markdown viewer, you can access the recording file directly in the repository at [screenshots/Demo_Recording.webm](screenshots/Demo_Recording.webm).*
 
 ---
 
@@ -263,7 +267,7 @@ P1 and P2 selections trigger a pulsing border animation on the form to alert the
 - [x] Form validation
 - [x] Unit tests (mockApi, syncService, triageSlice, TriageFormScreen)
 - [x] Comprehensive README
-- [ ] Demo video (60 seconds showing offline → sync)
+- [x] Demo video (showing offline → sync)
 
 ---
 
